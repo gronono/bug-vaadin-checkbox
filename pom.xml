@@ -9,9 +9,9 @@
     <properties>
         <frontend-maven-plugin.version>1.8.0</frontend-maven-plugin.version>
         <java.version>11</java.version>
-        <node.url>http://nexus.unc.nc/repository/node-proxy/</node.url>
+        <node.url>https://nodejs.org/dist/</node.url>
         <node.version>v12.13.0</node.version>
-        <npm.registry.url>http://nexus.unc.nc/repository/npm-proxy/</npm.registry.url>
+        <npm.registry.url>https://registry.npmjs.org/</npm.registry.url>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>${project.build.sourceEncoding}</project.reporting.outputEncoding>
         <vaadin.version>14.0.13</vaadin.version>
