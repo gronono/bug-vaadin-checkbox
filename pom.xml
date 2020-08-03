@@ -169,6 +169,7 @@
                                 <include>package.json</include>
                                 <include>package-lock.json</include>
                                 <include>pnpmfile.js</include>
+                                <include>pnpm-lock.yaml</include>
                                 <include>tsconfig.json</include>
                                 <include>types.d.ts</include>
                                 <include>webpack.config.js</include>
