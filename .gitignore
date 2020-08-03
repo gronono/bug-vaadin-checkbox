@@ -13,3 +13,6 @@
 /package-lock.json
 /webpack.config.js
 /webpack.generated.js
+/pnpmfile.js
+/tsconfig.json
+/types.d.ts
